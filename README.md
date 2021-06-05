@@ -1,3 +1,9 @@
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Leegeonwoo%20Github&fontSize=90&fontColor=05C7F2&animation=twinkling" />
+
+<p/>
+
+
 <p align="right">
   <div align=right>
 	
@@ -29,6 +35,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lee_geon_woo4336"
 </p>
 
 
