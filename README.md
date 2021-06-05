@@ -9,7 +9,7 @@
 
 ## 👋🏻 Hi there  I'm geonwoo Lee
 
-- 👦🏻   Junior Web & App developer
+- 👦🏻   Learning Web & App developer
 - 💻    usually using Javascript language for programmming
 
 <br>
