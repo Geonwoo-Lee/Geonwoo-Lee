@@ -24,7 +24,7 @@
 
 
 
-## 👩🏻‍💻 Tech Stack 
+## 👦🏻 💻 Tech Stack 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -40,8 +40,9 @@
 
 
 
-
-## 🙋🏻‍♀️ Contact me
+	
+	
+## 💁‍♂️	Contact me
 
 <div align="center">
     <a href="guncow4336@gmail.com">
