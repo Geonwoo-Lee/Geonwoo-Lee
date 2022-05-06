@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lee_geon_woo4336"/>
     <img src="https://img.shields.io/badge/Typescript-blue"/>
+	<img src="https://img.shields.io/badge/Vue-green"/>
 </p>
 
 
